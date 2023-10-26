@@ -61,8 +61,10 @@ httpd.serve_forever()
 ```
 
 ## OUTPUT:
-![serveroutput](serveroutput.png)
-![clientoutput](client%20output.png)
+![serveroutput](https://github.com/RAVENPRAVIN/webserver/assets/146820534/949075aa-56b0-42a1-a3fb-cb4af1b7f134)
+
+![clientoutput](https://github.com/RAVENPRAVIN/webserver/assets/146820534/935042ca-4d81-4078-a121-cc5416ea6a70)
+
 
 ## RESULT:
 The program is executed succesfully
